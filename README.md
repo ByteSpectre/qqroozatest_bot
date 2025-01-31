@@ -22,8 +22,8 @@
    python manage.py bot
    ```
 ### Ссылки
-[Telegram-бот](t.me/qqroozatest_bot)
- 
-[Админка](127.0.0.1:8000/admin/)
+[Telegram-бот](https://t.me/qqroozatest_bot)
+
+[Админка](https://127.0.0.1:8000/admin/)
 
 #### Данные от админки находятся в корне проекта в файле `admin.txt`
